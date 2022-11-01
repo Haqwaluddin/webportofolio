@@ -55646,7 +55646,7 @@ if(b.b>=700)return s.YO()
 else return s.Xi()},
 $S:348}
 A.R9.prototype={
-$0(){A.a5H(A.EQ("https://wa.me/+6281386681092",0,null))},
+$0(){A.a5H(A.EQ("https://wa.me/+6285756769817",0,null))},
 $S:0}
 A.Re.prototype={
 $2(a,b){var s=null
